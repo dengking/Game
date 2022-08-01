@@ -4,4 +4,6 @@
 
 ## Cheat sheet
 
-![](D:\GitHub\Game\docs\Unity\Basics\Unity-cheat-sheet.webp)
+
+
+![](./Unity-cheat-sheet.webp)
